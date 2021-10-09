@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//14
 public class NUM_15
 {
 
